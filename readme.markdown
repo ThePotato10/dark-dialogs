@@ -5,7 +5,7 @@ The JavaScript and 95% of the CSS is exactly the same as you would find in the o
 
 # Example
 
-![Image of dark themed dialog](https://github.com/ThePotato10/dark-dialogs/blob/master/Screenshot from 2020-12-09 09-17-13.png?raw=true)
+![Image of dark themed dialog](https://github.com/ThePotato10/dark-dialogs/blob/master/dark-dialog.png?raw=true)
 
 # license
 
